@@ -38,6 +38,10 @@ You can use the [ZapWorks command-line tool](https://docs.zap.works/universal-ar
 
 Remember to run the command within the folder that has your saved index.html file.
 
+This is how the app looks in real time.
+
+![Video](https://github.com/jojo96/WebVRCodeGenerator/blob/main/Images/LiveApp.mp4)
+
 # Local Installation
 
     git clone https://github.com/jojo96/WebVRCodeGenerator.git
