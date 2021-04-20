@@ -50,4 +50,4 @@ This is how the app looks in real time.
 
 A page would open in our browser and you can interact with the streamlit app.
 
-Author: [Jojo](https://twitter.com/I_m_Jojo): [LinkedIn](https://www.linkedin.com/in/ujjayanta-bhaumik/)
+Author: [Jojo](https://twitter.com/I_m_Jojo)([LinkedIn](https://www.linkedin.com/in/ujjayanta-bhaumik/))
