@@ -40,7 +40,7 @@ Remember to run the command within the folder that has your saved index.html fil
 
 This is how the app looks in real time.
 
-![Video](https://github.com/jojo96/WebVRCodeGenerator/blob/main/Images/LiveApp.mp4)
+![How stuff works](https://github.com/jojo96/WebVRCodeGenerator/blob/main/Images/LiveAppGIF.gif)
 
 # Local Installation
 
