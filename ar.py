@@ -4,7 +4,7 @@ import streamlit as st
 st.title('Web VR Code Generator')
 st.write('Click VR to go to VR space and scroll down to see generated code :)')
 
-col1, col2, col3 = st.beta_columns((1,1,2))
+col1, col2, col3 = st.columns((1,1,2))
 
 Options = ["a-box","a-sphere","a-cylinder","a-plane","a-cone","a-torus-knot","a-ring","a-dodecahedron","a-icosahedron"]
 choose = st.sidebar.selectbox("Pick a primitive:", Options)
